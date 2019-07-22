@@ -2,6 +2,3 @@ This repository is for the demonstration codes for the project that implements m
 
 The project using Convolutional Neural Network can be found in arXiv:1901.09391.
 
-test.txt stores test set.
-
-train.txt stores training set.
